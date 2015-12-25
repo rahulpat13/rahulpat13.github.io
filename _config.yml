@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Rahul Patil
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Graduate student at UNC Charlotte.Embedded Systems and Robotics Geek. Likes to Play Chess and Paint when free."
+  email: rahulpat13@ieee.org
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: rahulpat13
+  facebook: rahul.patil1
   google:
     plus: #username
     analytics:
