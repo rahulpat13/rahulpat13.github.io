@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Rahul Patil's Personal Website!
+title:            Personal Website!
 locale:           en_US
-url:              rahulpat13.github.io
+url:              
 
 
 # Jekyll configuration
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Rahul Patil
   avatar: bio-photo.jpg
-  bio: "Graduate student at UNC Charlotte.Embedded Systems and Robotics Geek. Likes to Play Chess and Paint when free."
+  bio: "Graduate student at UNC Charlotte. Embedded Systems and Robotics Geek. Likes to Play Chess and Paint when free."
   email: rahulpat13@ieee.org
   disqus-shortname:
   twitter: rahulpat13
