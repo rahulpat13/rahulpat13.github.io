@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Personal Website!
+title:            Rahul Patil
 locale:           en_US
 url:              
 
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Rahul Patil
   avatar: bio-photo.jpg
-  bio: "Graduate student at UNC Charlotte. Embedded Systems and Robotics Geek. Likes to Play Chess and Paint when free."
+  bio: "Graduate student at UNC Charlotte. Embedded Systems and Robotics Geek. Loves Chess and Physics"
   email: rahulpat13@ieee.org
   disqus-shortname:
   twitter: rahulpat13
